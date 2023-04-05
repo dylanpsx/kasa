@@ -40,7 +40,7 @@
   "devDependencies": {
     "gh-pages": "^5.0.0"
   },
-  "homepage": "https://<dylanpsx>.github.io/kasa>",
+  "homepage": "https://dylanpsx.github.io/kasa>",
 "scripts": {
 "predeploy": "npm run build",
 "deploy": "gh-pages -d build"
