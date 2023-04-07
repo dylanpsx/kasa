@@ -1,3 +1,5 @@
+//ce code utilise la bibliothèque react pour créer une application web 
+
 import React from 'react'; //importe la bibliothèque react
 import ReactDOM from 'react-dom/client'; //importe la méthode "reactDOM.CreateRoot" de la bibliothèque "react-dom" 
 //la méthode "creatRoot" permet de créer une racine pour l'application react, qui peut ensuite être utilisée pour afficher l'application
