@@ -13,8 +13,8 @@ export default function Navbar() {
                         Accueil
                     </Link>
                 </li>
-                <li className={currentRoute === '/about' ? 'nav_list_item_active' : 'nav_list_item'}>
-                    <Link  to='/about'>
+                <li className={currentRoute === '/Kasa/about' ? 'nav_list_item_active' : 'nav_list_item'}>
+                    <Link  to='/Kasa/about'>
                         A propos
                     </Link>
                 </li>
