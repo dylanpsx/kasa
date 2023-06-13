@@ -11,11 +11,11 @@ export default function AppRouter() {
       element: <Home />
     },
     {
-      path: "/accomodation/:id",
+      path: "/Kasa/accomodation/:id",
       element: <Accomodation />
     },
     {
-      path: '/about',
+      path: '/Kasa/about',
       element: <About />
     },
     {
